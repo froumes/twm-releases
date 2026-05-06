@@ -10,7 +10,7 @@ It is intentionally focused on distribution, not development. You should expect 
 - release notes
 - short end-user docs
 
-Source code is maintained separately from this release mirror.
+The source repository is `froumes/escrow`.
 
 ## Start here
 
@@ -99,4 +99,6 @@ This repository is a release mirror, not the main development home.
 
 ## Source and license
 
-TWM is distributed as software with source obligations that depend on the license used for each release. If you rely on a release operationally, keep the release notes and any accompanying source-availability terms with your deployment records.
+The source repository is `froumes/escrow`.
+
+If TWM continues to be distributed under AGPL, corresponding source for each released binary must also be made available with equivalent access.
